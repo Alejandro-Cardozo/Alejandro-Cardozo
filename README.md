@@ -1,16 +1,49 @@
-### Hi there 👋
+<!--<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="175px"/></a> -->
 
-<!--
-**Alejandro-Cardozo/Alejandro-Cardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alejandro</h1>
+<h3 align="center">Self-taught software developer from Argentina (⭐️⭐️⭐️)</h3>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **[Next.js](https://nextjs.org/)** and its ecosystem
+
+- 🛠 I’m looking forward to working as a **[React](https://reactjs.org/)** developer
+
+- 👨‍💻 All of my projects are available on my **[website](https://alejandro-cardozo.netlify.app/portfolio)**
+
+- 📫 You can reach me out on my **[LinkedIn profile](https://www.linkedin.com/in/alejandro-cardozo/)**
+
+- 🎮 Fun fact: I'm currently developing my first game
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+
+</p>
+
+## 📊 My Github Stats
+<br/>
+
+<p align="center">
+    <a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alejandro's streak" src="https://github-readme-stats.vercel.app/api?username=Alejandro-cardozo&show_icons=true&theme=react"/>
+    </a>
+
+
+<p align="center">
+    <a>
+        <img alt="Alejandro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-cardozo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
