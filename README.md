@@ -5,15 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[Next.js](https://nextjs.org/)** and its ecosystem
+- 🌱 I love learning about **[Next.js](https://nextjs.org/)** and its ecosystem
 
-- 🛠 I’m looking forward to working as a **[React](https://reactjs.org/)** developer
+- 🛠 I’m currently working for **[Hetmo Informática S.L.](https://hetmo.com/)** as a frontend developer
 
 - 👨‍💻 All of my projects are available on my **[website](https://alejandro-cardozo.netlify.app/portfolio)**
 
 - 📫 You can reach me out on my **[LinkedIn profile](https://www.linkedin.com/in/alejandro-cardozo/)**
-
-- 🎮 Fun fact: I'm currently developing my first game
 
 ## 🚀 Languages and Tools:
 
@@ -23,6 +21,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png"/> </a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png"/></a>
