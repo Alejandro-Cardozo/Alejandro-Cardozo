@@ -7,7 +7,7 @@
 
 - 🌱 I love learning about **[Next.js](https://nextjs.org/)** and its ecosystem
 
-- 🛠 I’m currently working for **[Hetmo Informática S.L.](https://hetmo.com/)** as a frontend developer
+- 🛠 I’m currently working for **[Hetmo](https://hetmo.com/)** as a frontend developer
 
 - 👨‍💻 All of my projects are available on my **[website](https://alejandro-cardozo.netlify.app/portfolio)**
 
