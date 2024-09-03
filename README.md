@@ -3,7 +3,8 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alejandro</h1>
 <h3 align="center">Self-taught software developer from Argentina (⭐️⭐️⭐️)</h3>
 
-## 🙋‍♂️ About Me
+
+<!--## 🙋‍♂️ About Me
 
 - 🌱 I love learning about **[Next.js](https://nextjs.org/)** and its ecosystem
 
@@ -12,7 +13,7 @@
 - 👨‍💻 All of my projects are available on my **[website](https://alejandro-cardozo.netlify.app/portfolio)**
 
 - 📫 You can reach me out on my **[LinkedIn profile](https://www.linkedin.com/in/alejandro-cardozo/)**
-
+-->
 ## 🚀 Languages and Tools:
 
 <p align="left">
